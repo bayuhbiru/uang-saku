@@ -1,5 +1,5 @@
-import Token "mo:./Token";
-import NFT "mo:./NFT";
+import Token "mo:./token.mo";
+import NFT "mo:./nft.mo";
 
 actor Main {
   // Fungsi untuk mengambil saldo pengguna dari modul Token
